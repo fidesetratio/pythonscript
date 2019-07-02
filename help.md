@@ -1,0 +1,1 @@
+ini cuma python script
